@@ -1,0 +1,18 @@
+INFO: 10:47:35 -> [main.cpp:317] -> ---------AU Phase---------
+INFO: 10:47:36 -> [DownloadMgr.cpp:914] -> ESC CMD :: xcopy "C:\CanDigital\*.*" "C:\CanDigital\..\BackupFolder" /E /D /Y /C /R
+INFO: 10:47:39 -> [DownloadMgr.cpp:948] -> ESC Error :: 0
+INFO: 10:47:39 -> [DownloadMgr.cpp:914] -> ESC CMD :: xcopy "C:\CanDigital\UpgradeFiles\*.*" "C:\CanDigital\" /E /D /Y /C /R
+INFO: 10:47:39 -> [DownloadMgr.cpp:948] -> ESC Error :: 183
+INFO: 10:47:39 -> [DownloadMgr.cpp:895] -> EC CMD :: cmd.exe /q /c rd /S /Q "C:\CanDigital\..\BackupFolder"
+INFO: 09:06:39 -> [main.cpp:317] -> ---------AU Phase---------
+INFO: 09:06:40 -> [DownloadMgr.cpp:914] -> ESC CMD :: xcopy "C:\CanDigital\*.*" "C:\CanDigital\..\BackupFolder" /E /D /Y /C /R
+INFO: 09:06:40 -> [DownloadMgr.cpp:948] -> ESC Error :: 0
+INFO: 09:06:40 -> [DownloadMgr.cpp:914] -> ESC CMD :: xcopy "C:\CanDigital\UpgradeFiles\*.*" "C:\CanDigital\" /E /D /Y /C /R
+INFO: 09:06:40 -> [DownloadMgr.cpp:948] -> ESC Error :: 183
+INFO: 09:06:40 -> [DownloadMgr.cpp:895] -> EC CMD :: cmd.exe /q /c rd /S /Q "C:\CanDigital\..\BackupFolder"
+INFO: 11:50:25 -> [main.cpp:317] -> ---------AU Phase---------
+INFO: 11:50:26 -> [DownloadMgr.cpp:914] -> ESC CMD :: xcopy "C:\CanDigital\*.*" "C:\CanDigital\..\BackupFolder" /E /D /Y /C /R
+INFO: 11:50:26 -> [DownloadMgr.cpp:948] -> ESC Error :: 298
+INFO: 11:50:26 -> [DownloadMgr.cpp:914] -> ESC CMD :: xcopy "C:\CanDigital\UpgradeFiles\*.*" "C:\CanDigital\" /E /D /Y /C /R
+INFO: 11:50:26 -> [DownloadMgr.cpp:948] -> ESC Error :: 183
+INFO: 11:50:26 -> [DownloadMgr.cpp:895] -> EC CMD :: cmd.exe /q /c rd /S /Q "C:\CanDigital\..\BackupFolder"
